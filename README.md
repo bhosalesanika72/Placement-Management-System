@@ -437,4 +437,3 @@
 # The Placement Management System provides a centralized platform for managing campus recruitment activities. It demonstrates full-stack web development using the MERN stack and showcases authentication, database management, REST APIs, and responsive user interface design.
 
 
-
